@@ -1,0 +1,22 @@
+.section-one 
+{
+ background: linear-gradient(to bottom right,#0160F1, #5216D0);
+}
+.paragraf
+{
+    font-size: large;
+}
+.built
+{
+    font-size: large;
+}
+.section-two
+{
+    display: flex;
+    justify-content: center;
+}
+
+.section-for-div {
+    box-shadow:  -0.0000000000000000001em -0em 0.6em rgb(182, 178, 178);
+    border-radius: 10px;    
+}
